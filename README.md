@@ -1,5 +1,6 @@
 # Bucky-Arm
 Projet SDC robot bras mécanique. <br>
+<img alt="illustration rigolote du projet" src="https://github.com/ethanschafstall/Bucky-Arm/assets/119678382/19a6d091-b59c-47a2-bf14-b2af8e2d13e2">
 ---
 Collaborators : <br>
 <p align="center">
