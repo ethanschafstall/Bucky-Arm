@@ -1,6 +1,6 @@
 # Bucky-Arm
 Projet SDC robot bras mécanique. <br>
-by : <br>
+Collaborators : <br>
 <a href="https://github.com/ethanschafstall">
   <img src="https://avatars.githubusercontent.com/u/7724486?v=4" alt="Logo de Ethan Schafstall" width="32">
 </a>
