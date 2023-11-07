@@ -2,7 +2,8 @@
 Projet SDC robot bras mécanique. <br>
 ---
 Collaborators : <br>
-  <a href="https://github.com/ethanschafstall">
+<p align="center">
+<a href="https://github.com/ethanschafstall">
   <img src="https://avatars.githubusercontent.com/u/7724486?v=4" alt="Logo de Ethan Schafstall" width="32">
 </a>
 [Ethan Schaftstall](https://github.com/ethanschafstall) <br>
@@ -22,3 +23,4 @@ Collaborators : <br>
   <img src="https://avatars.githubusercontent.com/u/122774951?v=4" alt="Logo de ETML-Midicix" width="32">
 </a>
 [LucasSimoesPolvora](https://github.com/LucasSimoesPolvora)
+</p>
