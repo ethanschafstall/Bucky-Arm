@@ -6,7 +6,9 @@ Collaborators : <br>
 <a href="https://github.com/ethanschafstall">
   <img src="https://avatars.githubusercontent.com/u/7724486?v=4" alt="Logo de Ethan Schafstall" width="32">
 </a>
-[Ethan Schaftstall](https://github.com/ethanschafstall)
+<a href="https://github.com/ethanschafstall">
+  Ethan Schaftstall
+</a>
 <a href="https://github.com/ETML-Midicix">
   <img src="https://avatars.githubusercontent.com/u/119678382?v=4" alt="Logo de ETML-Midicix" width="32">
 </a>
